@@ -1,0 +1,176 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true">
+
+    <RelativeLayout
+        android:id="@+id/subscriberview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_horizontal">
+
+        <ProgressBar
+            android:id="@+id/loadingSpinner"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:indeterminate="false"
+            android:visibility="gone" />
+
+
+    </RelativeLayout>
+
+
+    <RadioGroup
+        android:id="@+id/control_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp">
+
+        <RelativeLayout
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:background="@drawable/draw_background_white_circle"
+            android:padding="10dp"
+            android:visibility="visible">
+
+            <!--<ai.autonomous.remote.Joystick.JoystickView
+                android:id="@+id/joystickView"
+                android:layout_width="175dp"
+                android:layout_height="175dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="20dp"
+                android:visibility="gone" />-->
+
+            <RadioButton
+                android:id="@+id/btn_top"
+                android:layout_width="@dimen/moving_button_size"
+                android:layout_height="@dimen/moving_button_size"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/draw_radio_move_top"
+                android:button="@null" />
+
+            <RadioButton
+                android:id="@+id/btn_stop_action"
+                android:layout_width="@dimen/moving_button_size"
+                android:layout_height="@dimen/moving_button_size"
+                android:layout_centerHorizontal="true"
+                android:layout_centerInParent="true"
+                android:background="@drawable/draw_background_black_circle"
+                android:button="@null" />
+
+            <RadioButton
+                android:id="@+id/btn_bottom"
+                android:layout_width="@dimen/moving_button_size"
+                android:layout_height="@dimen/moving_button_size"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/draw_radio_move_bottom"
+                android:button="@null" />
+
+            <RadioButton
+                android:id="@+id/btn_left"
+                android:layout_width="@dimen/moving_button_size"
+                android:layout_height="@dimen/moving_button_size"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/draw_radio_move_left"
+                android:button="@null" />
+
+            <RadioButton
+                android:id="@+id/btn_right"
+                android:layout_width="@dimen/moving_button_size"
+                android:layout_height="@dimen/moving_button_size"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/draw_radio_move_right"
+                android:button="@null" />
+        </RelativeLayout>
+    </RadioGroup>
+
+
+    <LinearLayout
+        android:id="@+id/layout_video_capture_llt_action"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <CheckBox
+            android:id="@+id/btnMic"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:background="@drawable/draw_mic_button"
+            android:button="@null"
+            android:scaleType="fitCenter" />
+
+        <CheckBox
+            android:id="@+id/btnSpeaker"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/draw_speaker_button"
+            android:button="@null"
+            android:scaleType="fitCenter" />
+
+        <CheckBox
+            android:id="@+id/btnCamera"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/draw_camera_button"
+            android:button="@null"
+            android:scaleType="fitCenter" />
+
+    </LinearLayout>
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/btnCapture"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:background="@drawable/draw_background_black_circle"
+        android:padding="8dp"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/button_camera"
+        android:layout_below="@+id/layout_video_capture_llt_action"
+        android:layout_alignLeft="@+id/layout_video_capture_llt_action"
+        android:layout_alignStart="@+id/layout_video_capture_llt_action" />
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/btnEndcall"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:background="@drawable/draw_background_black_circle"
+        android:padding="8dp"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/ic_call_end_24dp"
+        android:layout_below="@+id/btnCapture"
+        android:layout_alignLeft="@+id/layout_video_capture_llt_action"
+        android:layout_alignStart="@+id/layout_video_capture_llt_action" />
+
+
+    <RelativeLayout
+        android:id="@+id/publisherview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></RelativeLayout>
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_above="@+id/btnCapture"
+        android:layout_alignLeft="@+id/control_parent"
+        android:layout_alignStart="@+id/control_parent"
+        android:layout_marginTop="100dp" />
+
+
+</RelativeLayout>

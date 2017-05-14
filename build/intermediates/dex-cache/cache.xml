@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/60a9058b0fe03613e9bed6484d03136bc8100937/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_a975b4259ed3733daa61b8427bbf1e338763c8e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/dc56e6cb5dc29644ce0449d14706d0ff6d86ab22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_ba8c9640ba21ea29ba58309221e8b7fff4e63f22.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f5d7d78ef5ab4e491ed57c5c7e831b9badd281">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_edbe6b750a1c11c8663cbb0a9da48716d3509d28/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/74c830ab86633710213303406ebb18c213a7f182/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ae94c30ccf2d52e07991f9fba1a00175aaa5321">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_75ebdbae3983a8ad8070f1999c5fd9d1a4a648d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.clarifai.clarifai-api2/core/2.2.6/17872f1b2812036933164a0da4e36c11047e0b1b/core-2.2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17872f1b2812036933164a0da4e36c11047e0b1b">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/core-2.2.6_91a26c2dc9038c36882f4db3240148edc6285f41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/6a6651c1e5cb57d04c7818279533a2f2c465d1a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_ead3653269ab27576bb7f3e1843d944e42496f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/863f59f84f32cdd53533196a525b5f7ad4efa3f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_b10e4c885a5b0dc8f49c95095eb8875d1e85ff6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.pubnub/pubnub-gson/4.6.2/d4d13a27d0071cc0f9aa68c72bd7aeb272aa3ba4/pubnub-gson-4.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d13a27d0071cc0f9aa68c72bd7aeb272aa3ba4">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/pubnub-gson-4.6.2_b8e15d22915746ec93d0a994ab49ca1b8e1d47fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/8f06493c5fe3321f6a58344815a2a586bb397142/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_612e4bad3216b55e9e8bf931c24d6a8a0aa90017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/106a3f4a9544ab7a44f8b1a5325928935113b76f/output/jars/libs/libjingle_peerconnection_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c820345fb0fc282322a614e257257d998af94bcb">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/libjingle_peerconnection_java_deb7bde64e1bb149083b71615078534dac2e60ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/92a20b0b1c0bf2ee084e70080fa52eee8f8f0c0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_4ad5557335930f3c8a540056cc487dcdee7a2b9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/dagger-1.2.2_8256f3360b496e501b272ca7e79a70163122845b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/e24a48a5d0593ccad76a110dde920fa84b5d682b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_4b8d1394bd52316e13cd7ed2e8e63f2c463338ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/okio-1.11.0_3ff687d7d946d5a4090203f50f47f01821b0d810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/834ec61e36f4ba67668b996fd88d91dc2037d2c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee2708a9c0516e58ec052169364c693fae68af3c">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_0f4e276432c61cf955645224b46f2d88820175fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/28c1e572df6c8d05168e0fbf5f34ef19ba219272/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_be5516dc6714aaaf7e8bb62f1d2eb4618544571a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/PhoneApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/PhoneApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_062c5f13ef1174a6cc54c780b18b8ecbf3c8dfff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/cd06226635956f6975e9f162c62799f88ede37d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_c58e26aaace72b06beb4c0c0388b302306fddd0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/fb1fd7fc7eb73e329a491b54dc1b5acdb4a4770d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_ff630587ed180924eaa8de339ec1cc49e6b299a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_27c6ae10016b41ba23b095a4e5133d186bda430f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.22/a1c83373863cec7ae8d89dc1c5722d8cb6ec0309/slf4j-api-1.7.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c83373863cec7ae8d89dc1c5722d8cb6ec0309">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/slf4j-api-1.7.22_777ad517c149c915e772bd1cf2a8e73f65455be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/retrofit-2.2.0_38bd2add600c941c53c6043daa23043c365ad499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/ce0e0ab22289e0a4ab0cc9a15bb17f671bee45a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_12d60e1c7def668abfd87472cd8a0e7471397a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e4207378df1a1d23ef7ee75b8826db721bdef918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/e672a515cf1464e138ee063b32ef698fcc6452da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_59e060612217fa54dced12a08c5c0d5efdd584b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/c8de9942afe863a23fa988776a980e6e8eba7df1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_9e4b9d8bca47035daeb18a1aa9101770e19231b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/logging-interceptor-3.6.0_40dc7287df25e485a5ef3c4b909ae7131d7cd81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.18/802a5fa1642253476592c2ee55930578e499fe63/aws-android-sdk-core-2.2.18.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="802a5fa1642253476592c2ee55930578e499fe63">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.18_bd0c3d0d0237844e7d9f2fe54b34bd5612979540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/ac3078300266bd251b586dbb1136b8a6e1c2b537/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_9e3b473d62fbd540a235503b503f89ca710b0b7d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e1396c78df7dfc7ef2357af9b9da22eab030f400/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/7d54ea0557c03c08539b64ff6f15a3b2cf5efc90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_44b4ca0cf051daa6722be849f0d444aa34dac1b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/106a3f4a9544ab7a44f8b1a5325928935113b76f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ff4747ea8b419ba4574db59e5d40b85e5a61800">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_285df09899b04f747ab6932f0602b70d720890fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/gson-2.8.0_faeec98d137fa605d00333fc39d9f07c473607c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/af3cc52ca9b78478713d4c48012c6b562d66a658/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_258bcb991649b17da1147267b1a74f6c095d44fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/javax.inject-1_4ba5e71db0f874e2a6a47ace457c60c2e5b61418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/87519c6eff6bfc63499ee379f1b3646593ce8072/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_0b0c6be631ce328384e9825bc92f28deaeff0ebe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/PhoneApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ab8b850a87cbe82f9196cfe3681da707b2242e">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/PhoneApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dc2df761d8c7cff4827ff1bfdc56697e5f2b8478/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_bdb64186eaa6c4e2ff35ca1a35fad97f02cc04d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-kinesis/2.2.18/a396899754cd8960c91ca7a994997f7c49bc86a7/aws-android-sdk-kinesis-2.2.18.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a396899754cd8960c91ca7a994997f7c49bc86a7">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/aws-android-sdk-kinesis-2.2.18_ba7e8a41e4eceac2b0736415a8175f9235a702e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/00ab12433924b578e1a3864e93ea1573a096ce0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_9560793e7ac371d8bd0bd0fee013bef3e1b01acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/861ed205de2424b189cb459dfcfe6086b6819ee6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_65bb1bd226d57db5d5032337947ae912bc933a01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/bae2ff174d529bbd6868449e98b9028daf6930b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_8388a67180342e4607815d870bf9620065ae9087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_d64f960c2904dd7e952cfa9ef0f652037c6413ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariepatterson/.android/build-cache/daabb5941f8d072658af52e58bab58410a61f0cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf9754bfa8484f88f26e45d28fe298daa544d4f0">
+        <dex dex="/Users/mariepatterson/Documents/TechCrunchDisruptHack2017/HelloClone-master/RobotApp/build/intermediates/pre-dexed/debug/classes_7bc4aa67b9981fd268b72512abf6033416122f59.jar" />
+    </item>
+
+</items>
